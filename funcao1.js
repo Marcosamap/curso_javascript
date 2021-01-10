@@ -12,3 +12,5 @@ function soma(a, b = 10){
 
 console.log(soma(2, 7))
 console.log(soma(2))
+console.log(soma(9))
+console.log(soma(39))
