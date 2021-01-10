@@ -13,3 +13,5 @@ delete valores[0]
 console.log(valores)
 
 console.log(typeof valores)
+valores[6] = 40
+console.log(valores)
